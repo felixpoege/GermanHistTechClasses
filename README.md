@@ -31,6 +31,8 @@ If you would like to support my work, please cite the work for which I collected
 * Poege, Felix (2021): Competition and Innovation: The Breakup of IG Farben. mimeo.
 * Poege, Felix (2021): Corporate innovation: the role of scientific discoveries, taxation and antitrust. Dissertation, LMU München: Faculty of Economics.
 
+See also [my website](https://www.felixpoege.eu).
+
 # Technologieklassen deutscher historischer Patente
 
 Dies ist ein reines Daten-Repository. Ziel ist, Forschern eine digitale Version der Beschreibungen historischer deutscher Patentklassen zur Verfügung zu stellen. Für  meine eigene Forschung war so etwas nicht verfügbar, einen Umstand den ich hiermit beheben möchte.
