@@ -9,11 +9,12 @@ This repository contains titles of classes from 1910 and 1949. Between these two
 ## Available data
 
 * Patentklassen.xlsx - Excel file containing the titles of the major and minor classes as well as a rough assessment whether the contents are consistent between 1910 and 1949 (in German).
+* OCR/Gruppeneinteilung.txt - OCR of "Gruppeneinteilung der Patentklassen" (See below, 'Technology groups with technology classes', in German). This gives a better impression of the actual technological content of the classes. The original scan is available upon request.
 
 ## TODO
 
 - [ ] Add English translations of the technology classes.
-- [ ] Add OCR of the technology group titles.
+- [x] Add OCR of the technology group titles.
 - [ ] Add aggregate numbers of patent applications.
 
 ## Source
