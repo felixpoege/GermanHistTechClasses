@@ -39,6 +39,6 @@ See also [my website](https://www.felixpoege.eu).
 
 # Technologieklassen deutscher historischer Patente
 
-Dies ist ein reines Daten-Repository. Ziel ist, Forschern eine digitale Version der Beschreibungen historischer deutscher Patentklassen zur Verfügung zu stellen. Für  meine eigene Forschung war so etwas nicht verfügbar, einen Umstand den ich hiermit beheben möchte.
+Dies ist ein reines Daten-Repository. Ziel ist, Forschern eine digitale Version der Beschreibungen historischer deutscher Patentklassen zur Verfügung zu stellen. Für  meine eigene Forschung war so etwas nicht verfügbar, einen Umstand den ich hiermit beheben möchte. Es handelt sich dabei um die Gruppeneinteilung der "Deutschen Patentklassifikation" (DPK).
 
 Angaben zu Quellen und Referenzen zu meiner eigenen darauf basierenden Arbeiten finden sich im englischen Text oben.
