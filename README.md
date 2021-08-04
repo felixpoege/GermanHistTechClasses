@@ -1,10 +1,14 @@
 # Historical German Patent Technology Classes
 
-This is a pure data repository, intended to give researchers working with historical German patent data easier access to the description of patent technology classes. I was surprised that I could not find such a digital reference, so if you were looking - here you go.
+<img src="visual.png" width="50%" align="right" alt="Examples of German technology classes">
 
+This is a pure data repository, intended to give researchers working with historical German patent data easier access to the description of patent technology classes. I was surprised that I could not find such a digital reference, so if you were looking - here you go.
+  
 There are 89 major technology classes as well as the ones of the >540 minor classes. The major technology classes were in use since the inception of the German patent system in 1877, whereas the minor classes were added starting around 1900. There are also detailed technology groups within the minor classes. The historical German patent classes were later superseded by the International Classification, later [International Patent Classification (IPC)](https://en.wikipedia.org/wiki/International_Patent_Classification#History).
 
-This repository contains titles of classes from 1910 and 1949. Between these two points in time, the technology content listed in the headers underwent some changes but remained broadly consistent.
+This repository contains titles of classes from 1910 and 1949. Between these two points in time, the technology content listed in the headers underwent some changes but remained broadly consistent. The repository also contains OCR of group-level descriptions. These are helpful in judging the actual technological content of a class. Note that all source materials are in German.
+
+The visualization on the right-hand side shows the cover of one of the source books as well as a selection of major technology classes.
 
 ## Available data
 
