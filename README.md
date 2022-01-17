@@ -12,9 +12,9 @@ The visualization on the right-hand side shows the cover of one of the source bo
 
 On the level of the 89 technologies, the repository contains official counts of yearly patent application and grants at the German Patent Office.
 
-<center><img src="stats.png" width="50%" alt="Overall counts of applications and grants over time"></center>
-
 ## Available data
+
+<img src="stats.png" width="50%" align="right" alt="Overall counts of applications and grants over time">
 
 * Patentklassen.xlsx - Excel file containing the titles of the major and minor classes as well as a rough assessment whether the contents are consistent between 1910 and 1949 (in German).
 * Patent statistics.xlsx - Excel file containing yearly counts of applications and grants of German patents on the level of the 89 technologies, 1920-1974.
