@@ -13,13 +13,14 @@ The visualization on the right-hand side shows the cover of one of the source bo
 ## Available data
 
 * Patentklassen.xlsx - Excel file containing the titles of the major and minor classes as well as a rough assessment whether the contents are consistent between 1910 and 1949 (in German).
+* Patent statistics.xlsx - Excel file containing yearly counts of applications and grants of German patents on the level of the 89 technologies, 1920-1974.
 * OCR/Gruppeneinteilung.txt - OCR of "Gruppeneinteilung der Patentklassen" (See below, 'Technology groups with technology classes', in German). This gives a better impression of the actual technological content of the classes. The original scan is available upon request.
 
 ## TODO
 
 - [ ] Add English translations of the technology classes.
 - [x] Add OCR of the technology group titles.
-- [ ] Add aggregate numbers of patent applications.
+- [x] Add aggregate numbers of patent applications.
 
 ## Source
 
@@ -27,6 +28,7 @@ The patent class titles are taken from the following books:
 
 * Taschenbuch des Patentwesens: Sammlung der den Geschäftskreis des Kaiserlichen Patentamts berührenden Gesetze und ergänzenden Anordnungen nebst Liste der Patentanwälte. Amtliche Ausgabe. Berlin: Heymanns, 1910.
 * Deutsches Patent- und Markenamt. Gruppeneinteilung der Patentklassen. 6th ed. München, Detmold, Frankfurt, Berlin: Nauck, 1949.
+* "Blatt für Patent-, Muster- und Zeichenwesen" (Publication series by the German Patent Office) - for application and grant counts.
 
 ## Attribution
 
@@ -39,6 +41,6 @@ See also [my website](https://www.felixpoege.eu).
 
 # Technologieklassen deutscher historischer Patente
 
-Dies ist ein reines Daten-Repository. Ziel ist, Forschern eine digitale Version der Beschreibungen historischer deutscher Patentklassen zur Verfügung zu stellen. Für  meine eigene Forschung war so etwas nicht verfügbar, einen Umstand den ich hiermit beheben möchte. Es handelt sich dabei um die Gruppeneinteilung der "Deutschen Patentklassifikation" (DPK).
+Dies ist ein reines Daten-Repository. Ziel ist, Forschern eine digitale Version der Beschreibungen historischer deutscher Patentklassen zur Verfügung zu stellen. Für  meine eigene Forschung war so etwas nicht verfügbar, einen Umstand den ich hiermit beheben möchte. Es handelt sich dabei um die Gruppeneinteilung der "Deutschen Patentklassifikation" (DPK) sowie jährliche Zahlen von Anmeldungen und Erteilungen zwischen 1920 und 1974.
 
 Angaben zu Quellen und Referenzen zu meiner eigenen darauf basierenden Arbeiten finden sich im englischen Text oben.
