@@ -12,7 +12,7 @@ The visualization on the right-hand side shows the cover of one of the source bo
 
 On the level of the 89 technologies, the repository contains official counts of yearly patent application and grants at the German Patent Office.
 
-<img src="stats.png" width="50%" alt="Overall counts of applications and grants over time">
+<center><img src="stats.png" width="50%" alt="Overall counts of applications and grants over time"></center>
 
 ## Available data
 
