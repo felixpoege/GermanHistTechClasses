@@ -10,6 +10,10 @@ This repository contains titles of classes from 1910 and 1949. Between these two
 
 The visualization on the right-hand side shows the cover of one of the source books as well as a selection of major technology classes.
 
+On the level of the 89 technologies, the repository contains official counts of yearly patent application and grants at the German Patent Office.
+
+<img src="visual.png" width="50%" align="center" alt="Overall counts of applications and grants over time">
+
 ## Available data
 
 * Patentklassen.xlsx - Excel file containing the titles of the major and minor classes as well as a rough assessment whether the contents are consistent between 1910 and 1949 (in German).
