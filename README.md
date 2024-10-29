@@ -22,7 +22,7 @@ On the level of the 89 technologies, the repository contains official counts of 
 
 ## TODO
 
-- [ ] Add English translations of the technology classes.
+- [x] Add English translations of the technology classes.
 - [x] Add OCR of the technology group titles.
 - [x] Add aggregate numbers of patent applications.
 
